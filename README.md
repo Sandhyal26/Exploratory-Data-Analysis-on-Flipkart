@@ -1,2 +1,5 @@
 # Exploratory-Data-Analysis-on-Flipkart
-This project, “Exploratory Data Analysis on Flipkart Laptops,” focuses on analyzing laptop data scraped from Flipkart to uncover market insights. It examines pricing patterns, brand performance, customer ratings, and feature-based trends using Python, Pandas, NumPy, and visualization libraries. The goal is to help consumers make informed choices and enable retailers to design competitive pricing and product strategies based on data-driven insights.
+Scraped laptop data from Flipkart using Beautiful Soup, including price, ratings,reviews, and specifications.
+Performed data cleaning, transformation, and feature extraction to create astructured dataset.
+Conducted statistical analysis and visualizations (box plots, heatmaps, KDE plots)using Pandas, NumPy, Matplotlib, and Seaborn.
+Summarized findings to support consumer decisions and retailer pricing strategies.
