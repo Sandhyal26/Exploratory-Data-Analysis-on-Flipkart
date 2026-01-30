@@ -1,7 +1,18 @@
 # Exploratory-Data-Analysis-on-Flipkart
-* This project focuses on **Exploratory Data Analysis (EDA) of laptops listed on Flipkart** to understand market trends and customer preferences.
-* Laptop data was **web scraped from Flipkart using Beautiful Soup**, then cleaned and prepared for analysis using Python.
-* The analysis studies **pricing patterns across brands**, processor types, RAM, display sizes, and operating systems.
-* It compares **brand-wise performance based on customer ratings and prices** to identify top-performing laptop configurations.
-* **Univariate and bivariate analysis** were performed using visualizations like box plots, heatmaps, and KDE plots.
-* The project helps **customers make better buying decisions** and assists **sellers in designing competitive pricing and feature strategies**.
+#### Description:
+* Performed comprehensive Exploratory Data Analysis (EDA) on Flipkart laptop product data to uncover pricing patterns, feature correlations, and consumer trends that influence purchasing decisions.
+
+#### Key Contributions:
+
+* Scraped 1,000+ product records using BeautifulSoup and converted unstructured web data into a structured dataset.
+
+* Cleaned and transformed data using Pandas and NumPy, handling missing values and inconsistencies.
+
+* Conducted statistical and visual analysis to identify relationships between price, ratings, specifications, and reviews.
+
+* Built visualizations (heatmaps, box plots, KDE plots) to support insights for pricing optimization and feature comparison.
+
+* Strengthened analytical problem-solving and data-handling skills applicable to backend and data-driven software systems.
+
+#### Tech Stack: Python, Pandas, NumPy, Matplotlib, BeautifulSoup
+#### Concepts: Data Cleaning, EDA, Data Visualization, Analytical Reasoning
