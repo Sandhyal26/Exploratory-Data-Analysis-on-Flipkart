@@ -1,9 +1,7 @@
 # Exploratory-Data-Analysis-on-Flipkart
-#### Description:
+
 * Performed comprehensive Exploratory Data Analysis (EDA) on Flipkart laptop product data to uncover pricing patterns, feature correlations, and consumer trends that influence purchasing decisions.
-
-#### Key Contributions:
-
+  
 * Scraped 1,000+ product records using BeautifulSoup and converted unstructured web data into a structured dataset.
 
 * Cleaned and transformed data using Pandas and NumPy, handling missing values and inconsistencies.
